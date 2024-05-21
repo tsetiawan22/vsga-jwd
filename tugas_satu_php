@@ -1,0 +1,8 @@
+<?php
+ echo "Nama : Taqwa setiawan";
+ echo "Asal Kampus : universitas bandar lampung";
+ echo "Jurusan : Sistem informasi";
+ echo "Kota  : Bandar Lampung";
+ echo"Php : Belom";
+ echo "html : sudah";
+ 
