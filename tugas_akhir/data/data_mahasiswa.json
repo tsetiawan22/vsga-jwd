@@ -1,0 +1,42 @@
+[
+    {
+        "npm": "23411050",
+        "nama": "Taqwa Setiawan",
+        "jenisKelamin": "Laki-Laki",
+        "jurusan": "Pendidikan Bahasa Ingris",
+        "mataKuliah": "Sistem Pennjang Keputusan",
+        "nilai": "100",
+        "nilaiMutu": "A",
+        "lulus": "Lulus"
+    },
+    {
+        "npm": "23411040",
+        "nama": "aqil",
+        "jenisKelamin": "Laki-Laki",
+        "jurusan": "Sistem Informasi",
+        "mataKuliah": "Basis Data",
+        "nilai": "90",
+        "nilaiMutu": "B",
+        "lulus": "Lulus"
+    },
+    {
+        "npm": "352237163",
+        "nama": "adit",
+        "jenisKelamin": "Perempuan",
+        "jurusan": "Sistem Informasi",
+        "mataKuliah": "Basis Data",
+        "nilai": "80",
+        "nilaiMutu": "B",
+        "lulus": "Lulus"
+    },
+    {
+        "npm": "352237163",
+        "nama": "adit",
+        "jenisKelamin": "Perempuan",
+        "jurusan": "Sistem Informasi",
+        "mataKuliah": "Basis Data",
+        "nilai": "80",
+        "nilaiMutu": "B",
+        "lulus": "Lulus"
+    }
+]
